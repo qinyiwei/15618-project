@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Summary
+We are going to implement a parallel dynamic adaptive graph neural network on NVIDIA GPUs. Our network is different from a traditional neural network in two ways: 1) it is a Directed Acyclic Graph (DAG), 2) computation units in the graph can be added (or pruned) dynamically during training, which makes it harder to parallelize.
 
-You can use the [editor on GitHub](https://github.com/qinyiwei/15618-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Backround
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# The Challenge
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Resources
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Goals and Deliverables
 
-1. Numbered
-2. List
+## Plan to Achieve
+## Hope to Achieve
+## Demo
 
-**Bold** and _Italic_ and `Code` text
+# Platform Choice
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qinyiwei/15618-project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Schedule
